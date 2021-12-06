@@ -1,3 +1,5 @@
 *.ipynb
 *-checkout.py
 .ipynb-checkpoints/*
+*checkpoints*
+*__pycache__*
